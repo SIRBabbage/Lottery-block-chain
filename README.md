@@ -1,4 +1,4 @@
-### Lottery-2023
+## Lottery-2023
 This is a project of our final exam for the **Block-chain** lesson.   
 The origin edition has been finished in **May 2023**.  
 Please do not use the code for commercial or other non-academic purpose.  
@@ -22,6 +22,6 @@ It would be welcomed if you realized the function of interaction between multipl
 Other questions plz contact via Github.  
 <img width="417" alt="image" src="https://github.com/SIRBabbage/Lottery-block-chain/assets/113416659/9f26c7c2-16ec-4114-99db-ae6bb12db326">
 
-### Acknowledgements:
+## Acknowledgements:
 Thanks to the guidance from our mentor Siyu Zhan.  
 This work is based on a curriculum design of UESTC.  
