@@ -16,8 +16,8 @@ Other tools are required in this experiment: Ganache and Metamask
 
 Compiling environment:Remix  
 
-### Matters need attention
-Due to the updates of Solidity,you need to alter some sentences to run this project.  
+### Matters need attention:
+Due to the updates of Solidity,you need to alter some sentences to run this project.(It depends)  
 It would be welcomed if you realized the function of interaction between multiple accounts.  
 Other questions plz contact via Github.  
 <img width="417" alt="image" src="https://github.com/SIRBabbage/Lottery-block-chain/assets/113416659/9f26c7c2-16ec-4114-99db-ae6bb12db326">
